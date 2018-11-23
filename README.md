@@ -2,6 +2,5 @@
 Vodafone CSM test
 
 { 
-"issueId":11922,
-"pageId":7799157
+"issueId":11922
 }
